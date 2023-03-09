@@ -88,9 +88,6 @@ title {
       margin-right: 2%;
       margin-bottom:1%;
     }
-    .menu{
-    
-    }
     .menu ul{
       display: flex;
       flex-direction: row;
@@ -122,7 +119,7 @@ title {
       background-color: #CED2C2;
       text-align: right;
       padding-top: 20px;
-      padding-left: 9%;
+      padding-left: 10%;
       padding-right: 5%;
       padding-bottom: 15px;
       margin-top: 1%;
@@ -221,15 +218,13 @@ title {
   margin-left: 100px;
   font-size: 20px;
   border-color: navy;
-  
-  ;
   }
   
   .format{
   text-align:center;
   margin-left: 17%;
   font-size: 30px;
-  margin-top: 25%;
+  margin-top: 20%;
   margin-bottom: 5%;
   padding-top: 5px;
   padding-bottom: 5px;
@@ -299,14 +294,18 @@ title {
   }
   
   h6{
-  padding-top: 40px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   font-size: 28px;
   font-weight: bold;
-  margin-right: 150px;
+  margin-left: 2%;
+  margin-right: 2%;
   color: navy;
   font-size: 40px;
   font-weight: bolder;
-  margin-left: 20px;
+  border: solid black 3px;
+
+
   }
   .before {
    border: solid 2.5px black;
@@ -489,8 +488,8 @@ title {
   
   button:hover {
     opacity: 0.8;
+    
   }
-  
   
   .modal {
     display: none; 
@@ -501,3 +500,4 @@ title {
     padding-top: 60px;
     overflow: auto;
   }
+
